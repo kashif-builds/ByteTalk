@@ -62,8 +62,7 @@ The server listens for events from the browsers. When someone sends a message, t
 
 - Deploy it online (right now it only works on localhost)
 - Save old messages
-- Show who is typing
-- A list of online users
+- A list of users who joined
 
 ## Author
 
